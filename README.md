@@ -4,7 +4,7 @@ Ce bot Discord permet aux utilisateurs de jouer de la musique dans les canaux vo
 
 ## Fonctionnalités
 
-- `/play` : Jouer de la musique à partir d'une URL ou d'une recherche YouTube.
+- `/play` : Jouer de la musique à partir d'une URL ou d'une recherche YouTube/Spotify/Deezer/SoundCloud.
 - `/pause` : Mettre en pause ou reprendre la lecture de la musique.
 - `/boucle` : Activer ou désactiver la lecture en boucle de la file d'attente.
 - `/back` : Rejouer la piste précédente.
